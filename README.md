@@ -1,5 +1,5 @@
 # Hi there, I'm Kavindu Jayashan 👋
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" /> CS Undergrad | Full Stack Developer
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" /> CS Undergrad | Full Stack Developer
 
 ## <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="30"> About Me
 I'm a Computer Science undergraduate passionate about building scalable and efficient web applications.  
