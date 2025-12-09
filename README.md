@@ -1,5 +1,6 @@
 # Hi there, I'm Kavindu Jayashan 👋
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" /> CS Undergrad | Full Stack Developer
+
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" /> <span id="typing"></span>
 
 ## <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="30"> About Me
 I'm a Computer Science undergraduate passionate about building scalable and efficient web applications.  
@@ -22,9 +23,9 @@ Currently, I'm collaborating on **FixMate**, a platform to find and sell service
 ---
 
 ## 📊 GitHub Stats
-<p align="left">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
+<p align="center">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Kavindu-Jayashan&show_icons=true&theme=radical&hide_title=true" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavindu-Jayashan&layout=compact&theme=radical&hide_title=true" />
 </p>
 
 ---
@@ -42,7 +43,20 @@ Currently, I'm collaborating on **FixMate**, a platform to find and sell service
 
 ## 🔗 Connect with me
 <p>
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">GitHub</a> • 
+  <a href="https://github.com/Kavindu-Jayashan" target="_blank">GitHub</a> • 
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">LinkedIn</a> • 
   <a href="mailto:YOUR_EMAIL" target="_blank">Email</a>
 </p>
+
+---
+
+<!-- Typing animation -->
+<script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+<script>
+  var typed = new Typed('#typing', {
+    strings: ["CS Undergrad", "Full Stack Developer", "Web Enthusiast"],
+    typeSpeed: 50,
+    backSpeed: 30,
+    loop: true
+  });
+</script>
