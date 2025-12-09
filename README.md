@@ -17,32 +17,15 @@ Currently, I'm collaborating on **FixMate**, a platform to find and sell service
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Tailwind-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" width="90"/>
 </p>
 
----
-
-## 📊 GitHub Stats
-<p align="left">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
-</p>
-
----
-
-## 🏅 Badges
-<p>
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-%230078D7.svg?style=for-the-badge&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-</p>
 
 ---
 
 ## 🔗 Connect with me
 <p>
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">GitHub</a> • 
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">LinkedIn</a> • 
-  <a href="mailto:YOUR_EMAIL" target="_blank">Email</a>
+  <a href="https://github.com/Kavindu-Jayashan" target="_blank">GitHub</a> • 
+  
+  <a href="mailto:mkkljayashan@gmail.com" target="_blank">mkkljayashan@gmail.com</a>
 </p>
